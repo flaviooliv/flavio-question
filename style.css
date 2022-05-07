@@ -32,7 +32,7 @@ label{
     color: aliceblue;
 }
 
-label: :first-child {
+label:first-child {
     margin: 0;
 }
 
